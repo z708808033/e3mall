@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="e3-content-service"
+  id="myeclipse.1495444444138"
+  context-root="/e3-content-service"
+  j2ee-spec="1.7"
+  archive="e3-content-service.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

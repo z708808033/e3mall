@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="e3-order-web"
+  id="myeclipse.1496197111104"
+  context-root="/e3-order-web"
+  j2ee-spec="1.7"
+  archive="e3-order-web.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

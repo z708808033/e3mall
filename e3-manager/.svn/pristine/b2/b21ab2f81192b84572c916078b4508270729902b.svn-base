@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="e3-manager-web"
+  id="myeclipse.1494926133944"
+  context-root="/e3-manager-web"
+  j2ee-spec="1.7"
+  archive="e3-manager-web.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

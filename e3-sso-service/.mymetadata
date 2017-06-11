@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="e3-sso-service"
+  id="myeclipse.1495963004877"
+  context-root="/e3-sso-service"
+  j2ee-spec="1.7"
+  archive="e3-sso-service.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
